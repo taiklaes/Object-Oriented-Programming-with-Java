@@ -19,3 +19,4 @@
 # Sistema
 .DS_Store
 Thumbs.db
+/src/class-01/build/
