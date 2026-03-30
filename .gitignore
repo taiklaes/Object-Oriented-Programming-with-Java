@@ -1,0 +1,21 @@
+# Compilação
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# NetBeans
+/nbproject/private/
+/nbproject/Makefile-*.mk
+/nbproject/Package-*.bash
+
+# Arquivos de IDE (usuário)
+*.log
+
+# Java
+*.class
+
+# Sistema
+.DS_Store
+Thumbs.db
