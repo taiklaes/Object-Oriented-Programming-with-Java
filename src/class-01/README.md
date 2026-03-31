@@ -1,6 +1,4 @@
-> Introdução à linguagem Java e configuração do ambiente de desenvolvimento.
-
-## 📌 Visão Geral
+# Introdução à Linguagem Java
 
 Este repositório contém a implementação inicial em Java desenvolvida durante a aula introdutória do curso. O foco está na configuração do ambiente, compreensão da estrutura da linguagem e execução do primeiro programa.
 
@@ -24,7 +22,7 @@ Este repositório contém a implementação inicial em Java desenvolvida durante
 
 ## 🧪 Exemplo
 
-```
+```java
 public class Main {
     public static void main(String[] args) {
         System.out.println("Olá Mundo!");
