@@ -22,6 +22,7 @@ O repositório está organizado da seguinte forma:
   └── /class-0X -> Pasta de cada aula
         └── /src -> Código-fonte Java
         └── /nbproject -> Configurações do NetBeans
+        └── README.md -> Resumo da aula
 ```
 
 Cada pasta de aula representa um projeto independente criado na IDE.
