@@ -29,8 +29,8 @@ Cada pasta de aula representa um projeto independente criado na IDE.
 
 ## ⚙️ Tecnologias
 
-- Java SE Development Kit 26
-- Apache NetBeans 29 (IDE)
+- Java
+- Apache NetBeans (IDE)
 
 ## 🚀 Como usar?
 
