@@ -2,7 +2,7 @@
 
 Este repositório contém materiais, exercícios e projetos desenvolvidos durante o curso de extensão **Programação Orientada a Objetos com Java**, oferecido pelo IFSP (Instituto Federal de São Paulo).
 
-## 📚 Sobre o curso
+## 📚 Sobre
 
 O curso tem como objetivo apresentar os principais conceitos de Programação Orientada a Objetos (POO) utilizando a linguagem Java, incluindo:
 
@@ -13,16 +13,40 @@ O curso tem como objetivo apresentar os principais conceitos de Programação Or
 - Abstração
 - Boas práticas de desenvolvimento
 
-## 📂 Estrutura do repositório
+## 📂 Estrutura
 
 O repositório está organizado da seguinte forma:
 
-```/src -> Códigos-fonte dos exercícios e projetos```
+```
+/src
+  └── /class-0X -> Pasta de cada aula
+        └── /src -> Código-fonte Java
+        └── /nbproject -> Configurações do NetBeans
+```
 
-## 🚀 Tecnologias utilizadas
+Cada pasta de aula representa um projeto independente criado na IDE.
+
+## ⚙️ Tecnologias
 
 - Java SE Development Kit 26
 - Apache NetBeans 29 (IDE)
+
+## 🚀 Como usar?
+
+1. Clone o repositório
+2. Abra o Apache NetBeans
+3. Vá em **File > Open Project**
+4. Selecione a pasta da aula desejada (`class-0X`)
+5. Execute o projeto (`F6` ou botão "Run")
+
+### Execução via terminal (opcional)
+
+Dentro da pasta do projeto:
+
+```bash
+javac -d build src/*.java
+java -cp build NomeDaClassePrincipal
+```
 
 ## 🎯 Objetivo
 
