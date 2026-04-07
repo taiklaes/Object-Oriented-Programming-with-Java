@@ -5,11 +5,6 @@
 /nbdist/
 /.nb-gradle/
 
-# NetBeans
-/nbproject/private/
-/nbproject/Makefile-*.mk
-/nbproject/Package-*.bash
-
 # Arquivos de IDE (usuário)
 *.log
 
@@ -19,4 +14,20 @@
 # Sistema
 .DS_Store
 Thumbs.db
+
+# NetBeans
+/nbproject/private/
+/nbproject/Makefile-*.mk
+/nbproject/Package-*.bash
+/src/class-01/nbproject/private/
 /src/class-01/build/
+/src/class-01/dist/
+/src/class-02/A02t01/nbproject/private/
+/src/class-02/A02t01/build/
+/src/class-02/A02t01/dist/
+/src/class-02/A02t02/nbproject/private/
+/src/class-02/A02t02/build/
+/src/class-02/A02t02/dist/
+/src/class-02/A02t03/nbproject/private/
+/src/class-02/A02t03/build/
+/src/class-02/A02t03/dist/
